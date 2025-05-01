@@ -90,7 +90,6 @@ and return the modified array of movies.
 // Example usage:
 const updatedMovies = updateMovieGenre(movies, "Pulp Fiction", "Classic Crime");
 ******************************/
-
 function updateMovieGenre(
   movies: Movie[],
   title: string,
